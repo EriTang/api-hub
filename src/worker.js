@@ -24,7 +24,7 @@ const API_CONFIGS = {
       logo: "⚡"
     },
     docker: {
-      host: 'docker.ixu.cc',
+      host: 'docker.eri.systems',
       paths: ['/'],
       description: "Docker Registry 服务",
       logo: "🐳",
